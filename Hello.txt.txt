@@ -1,1 +1,2 @@
-print("Салам Всем")
+print("Салам Всем");
+print("How are you");
